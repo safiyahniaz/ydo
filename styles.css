@@ -7,7 +7,7 @@ html {
     margin:0;
     padding-bottom: 0.1em;
     padding: 20px;
-    min-height: 100vh;
+   min-height: 100vh;
 }
 
 #h2 {
@@ -87,4 +87,8 @@ font-family:'Yanone Kaffeesatz', sans-serif;
 #dog {
     font-family: 'Concert One', cursive;
     font-size: 1.3em;
+}
+
+#button {
+  margin-left: 31em;
 }
